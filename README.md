@@ -1,9 +1,10 @@
-## Hi there 👋
+## Hi there, my name is Erick 👋
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ericklima14&show_icons=true&theme=tokyonight&hide_border=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com?user=ericklima14&theme=tokyonight&hide_border=true&exclude_days=Sun%2CSat"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ericklima14&show_icons=true&theme=tokyonight&hide_border=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com?user=ericklima14&theme=tokyonight&hide_border=true"/>
 |---|---|
+
 
  <a href="https://github.com/ericklima14?tab=repositories&sort=stargazers">
         <img 
